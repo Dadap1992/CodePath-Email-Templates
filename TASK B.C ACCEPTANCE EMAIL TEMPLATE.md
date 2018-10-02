@@ -1,6 +1,6 @@
 # TASK B.C ACCEPTANCE EMAIL TEMPLATE
 
-Subject: Welcome to CodePath.org!
+Subject: Welcome On-board to CodePath.org!
 
 Hi Malika,
 
@@ -28,5 +28,6 @@ For general inquiries, please don't hesitate to email us back at support@codepat
 Best Regards,
 
 Charlie Hieger
-CodePath, University Dean
-CodePath.org
+
+CodePath.org, University Dean
+
