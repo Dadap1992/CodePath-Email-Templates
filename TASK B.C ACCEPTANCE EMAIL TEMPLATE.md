@@ -1,5 +1,7 @@
 # TASK B.C ACCEPTANCE EMAIL TEMPLATE
 
+Subject: Welcome to CodePath.org!
+
 Hi Malika,
 
 Thank you for your interest in participating for our iOS bootcamp to be held in your campus this coming Fall of 2018.
@@ -13,7 +15,7 @@ The ***Professional iOS* course** is a 12-week long of intense, project-focused 
 1. Admission Acceptance: September 21, 2018
    * *Please respond to this email on or before the specified date above*
 2. Please thoroughly review the [course description](https://courses.codepath.com/snippets/ios_university/course_overview#heading-course-description) and [policies](https://courses.codepath.com/snippets/ios_university/course_overview#heading-course-policies).
-   * We have incredibly high expectations for all students participating in this course and we will hold everyone accountable to the strict attendance and assignment submission policies, so make sure you know what you're signing up for!
+   * The core value that we’re providing in this course is a framework for highly accelerated learning combining accountability, mentorship, focused curriculum, and peer collaboration on hands-on projects.
 
 
 
