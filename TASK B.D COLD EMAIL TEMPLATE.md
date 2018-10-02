@@ -1,5 +1,7 @@
 # TASK B.D COLD EMAIL TEMPLATE
 
+Subject: Think you're qualified? Here's an opportunity for you!
+
 Hey there,
 
 Great Day! I am Tim, co-founder of **CodePath**, and I am reaching out for this invaluable offer we have for you.
@@ -35,4 +37,5 @@ Should you need additional information or further clarification, please shoot us
 Looking forward to hearing back from you soon,
 
 Tim Lee
+
 CodePath, Co-founder
