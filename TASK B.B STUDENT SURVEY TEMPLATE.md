@@ -1,5 +1,7 @@
 # TASK B.B STUDENT SURVEY TEMPLATE
 
+Subject: Survey Completion Follow-up
+
 Hey Andrew,
 
 You are receiving this message as an indication that you have not yet filled out the survey questions that was sent to you after your last class session.
@@ -13,5 +15,5 @@ If you have any questions or clarifications, please don't hesitate to shoot us a
 All the best,
 
 Charlie Hieger
-CodePath, University Dean
-CodePath.org
+
+CodePath.org, University Dean
