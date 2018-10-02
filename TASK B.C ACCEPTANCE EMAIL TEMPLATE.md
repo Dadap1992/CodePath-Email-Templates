@@ -15,7 +15,7 @@ The ***Professional iOS* course** is a 12-week long of intense, project-focused 
 1. Admission Acceptance: September 21, 2018
    * *Please respond to this email on or before the specified date above*
 2. Please thoroughly review the [course description](https://courses.codepath.com/snippets/ios_university/course_overview#heading-course-description) and [policies](https://courses.codepath.com/snippets/ios_university/course_overview#heading-course-policies).
-   * The core value that we’re providing in this course is a framework for highly accelerated learning combining accountability, mentorship, focused curriculum, and peer collaboration on hands-on projects.
+   * *The core value that we’re providing in this course is a framework for highly accelerated learning combining accountability, mentorship, focused curriculum, and peer collaboration on hands-on projects.*
 
 
 
