@@ -36,6 +36,5 @@ Should you need additional information or further clarification, please shoot us
 
 Looking forward to hearing back from you soon,
 
-Tim Lee
-
+Tim Lee<br>
 CodePath, Co-founder
