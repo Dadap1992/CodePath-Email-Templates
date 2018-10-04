@@ -14,6 +14,5 @@ If you have any questions or clarifications, please don't hesitate to shoot us a
 
 All the best,
 
-Charlie Hieger
-
+Charlie Hieger<br>
 CodePath.org, University Dean
