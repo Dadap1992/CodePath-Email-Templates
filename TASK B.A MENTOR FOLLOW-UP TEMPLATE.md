@@ -14,6 +14,5 @@ Thank you so much for your time and consideration.
 
 All the Best,
 
-Tim Lee
-
+Tim Lee<br>
 CodePath, Co-Founder
