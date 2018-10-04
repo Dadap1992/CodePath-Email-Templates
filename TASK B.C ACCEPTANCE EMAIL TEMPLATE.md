@@ -27,7 +27,6 @@ For general inquiries, please don't hesitate to email us back at support@codepat
 
 Best Regards,
 
-Charlie Hieger
-
+Charlie Hieger<br>
 CodePath.org, University Dean
 
